@@ -1,0 +1,1 @@
+# The base case is when there is only one item in the list, and we check if that element matches the target or not
